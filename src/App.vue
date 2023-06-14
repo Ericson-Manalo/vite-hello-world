@@ -6,7 +6,7 @@ import AppTitle from './components/AppTitle.vue'
   <AppTitle/>
 </template>
 
-<style scoped>
+<style>
 .logo {
   height: 6em;
   padding: 1.5em;
